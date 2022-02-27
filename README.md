@@ -1,4 +1,4 @@
-# Dimensionality-Reduction-Techniques ![license](https://img.shields.io/github/license/pouyaardehkhani/Dimensionality-Reduction-Techniques.svg) ![releases](https://img.shields.io/github/release/pouyaardehkhani/Dimensionality-Reduction-Techniques) <a href="https://colab.research.google.com/github/pouyaardehkhani/Feature-Selection/blob/master/Dimensionality_Reduction_Techniques.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+# Dimensionality-Reduction-Techniques ![license](https://img.shields.io/github/license/pouyaardehkhani/Dimensionality-Reduction-Techniques.svg) ![releases](https://img.shields.io/github/release/pouyaardehkhani/Dimensionality-Reduction-Techniques) <a href="https://colab.research.google.com/github/pouyaardehkhani/Dimensionality-Reduction-Techniques/blob/master/Dimensionality_Reduction_Techniques.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 This project intends to shows the ways we can perform dimensionality reduction techniques on our data.
 
 ## Methods that are covered in the project:
